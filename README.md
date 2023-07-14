@@ -1,4 +1,4 @@
-¡Hola! Soy Santiago Gómez Tartaglino, Desarrollador Web FullStack 🚀!
+## ¡Hola! Soy Santiago Gómez Tartaglino, Desarrollador Web FullStack 🚀!
 
 ¿Quién soy?
 Me considero una persona apasionada, enérgica, orientada a resultados, creativa y adaptable, siempre dispuesto a asumir nuevos desafíos y aprender de ellos.
